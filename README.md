@@ -5,6 +5,7 @@
 
 It is *terminal* based python script with (gemini assistance)
 .that handles the client/server with one small script.
+**you must edit com port in .py script to match yours**
 It can run locally on computer or run on other lan connected computer in ssh terminal.
 
 It will accept hotkeys as shown. In linux it needs a tmux shell to accept hotkeys.
@@ -16,7 +17,10 @@ It does work stand alone supporting connection to other SDR software, like Aethe
   
 It can run on linux or windows (not tested on mac). 
 
+Running it 
+type python pa100d_amp_udp.py
 
+I did a simple gui version but the terminal version is fine for me.
 
 Linux (tmux) Termninal
 <img width="836" height="314" alt="image" src="https://github.com/user-attachments/assets/622e76be-e5f5-4f91-8ec8-e67c259b8433" />
