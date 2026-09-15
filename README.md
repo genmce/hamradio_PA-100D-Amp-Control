@@ -5,7 +5,9 @@
 
 It is *terminal* based python script with (gemini assistance)
 .that handles the client/server with one small script.
+
 **you must edit com port in .py script to match yours**
+
 It can run locally on computer or run on other lan connected computer in ssh terminal.
 
 It will accept hotkeys as shown. In linux it needs a tmux shell to accept hotkeys.
